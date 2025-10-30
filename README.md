@@ -40,7 +40,6 @@ I'm a passionate developer who loves building innovative solutions and contribut
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -66,18 +65,10 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 <div align="center">
 
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShirinLohiya&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
-## 🔥 Featured Projects
-
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/yourusername/project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/yourusername/project2)
-
-</div>
 
 ## 🌐 Connect with Me
 
