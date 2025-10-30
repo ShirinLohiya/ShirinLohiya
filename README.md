@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Shirin 👋
 
 <div align="center">
 
@@ -92,13 +92,7 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 </div>
 
-## 💡 Random Dev Quote
 
-<div align="center">
-
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
 
 ---
 
