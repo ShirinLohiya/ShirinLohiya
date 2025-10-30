@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=ShirinLohiya&color=blueviolet&style=flat-square)
 
 </div>
 
@@ -45,11 +45,11 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShirinLohiya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirinLohiya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShirinLohiya&theme=radical&hide_border=true&background=0D1117)
 
 </div>
 
@@ -57,7 +57,7 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 <div align="center">
 
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=ShirinLohiya&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
@@ -89,6 +89,5 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
   ### Show some ❤️ by starring some of the repositories!
 
-  ![Snake animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg)
 
 </div>
