@@ -1,10 +1,5 @@
 # Hi there, I'm Shirin 👋
 
-<div align="center">
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=ShirinLohiya&color=blueviolet&style=flat-square)
-
-</div>
 
 ## 🚀 About Me
 
