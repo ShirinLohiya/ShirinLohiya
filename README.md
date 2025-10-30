@@ -10,12 +10,10 @@
 
 I'm a passionate developer who loves building innovative solutions and contributing to open-source projects. Currently working on exciting projects that push the boundaries of technology.
 
-- 🔭 I'm currently working on **[Current Project]**
-- 🌱 I'm currently learning **[Technology/Framework]**
-- 👯 I'm looking to collaborate on **[Type of Projects]**
-- 💬 Ask me about **[Your Expertise Areas]**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 🔭 I'm currently working on **my learning platform**
+- 🌱 I'm currently learning **AI**
+- 👯 I'm looking to collaborate on **any project idea you got!**
+- 📫 How to reach me: **lohiyashirin@gmail.com**
 
 ## 🛠️ Tech Stack
 
