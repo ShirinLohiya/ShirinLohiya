@@ -40,9 +40,7 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShirinLohiya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirinLohiya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShirinLohiya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirinLohiya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShirinLohiya&theme=radical&hide_border=true&background=0D1117)
 
